@@ -4,31 +4,31 @@ import { useRef } from "react";
 const memories = [
   {
     id: 1,
-    image: "/image/z7612217595117_74c06da5aa97fcb80d48fd9b3f10e15c.jpg",
+    image: "/image/memory1.jpg",
     title: "Lần đầu gặp gỡ",
     description: "Một buổi đi xem phim khá nhẹ nhàng",
   },
   {
     id: 2,
-    image: "/image/z7612217597476_506849938d54cf716f4a5c1fe0f7c469.jpg",
+    image: "/image/memory2.jpg",
     title: "Chuyến đi đầu tiên",
     description: "Cùng nhau khám phá những vùng đất mới, tay trong tay.",
   },
   {
     id: 3,
-    image: "/image/z7612217598545_76c303dd2b98179115d37caea675a999.jpg",
+    image: "/image/memory3.jpg",
     title: "Sinh nhật đáng nhớ",
     description: "Mong chờ được đón sinh nhật cùng em",
   },
   {
     id: 4,
-    image: "/image/z7612217618988_3f6ce5d05dce854f665f4b9b460b70a7.jpg",
+    image: "/image/memory4.jpg",
     title: "Những ngày bình yên",
     description: "Chỉ cần ngồi cạnh nhau, không nói gì cũng thấy đủ đầy.",
   },
   {
     id: 5,
-    image: "/image/z7612217620513_4b779e83ebc0c0ffb139ea76f7baaa3b.jpg",
+    image: "/image/memory5.jpg",
     title: "Tương lai phía trước",
     description: "Sẽ còn rất nhiều trang sách mới chờ chúng ta viết tiếp.",
   },
